@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>moving Images</h2>
+<h2>Animation</h2>
 
 <p>HTML allows moving images:</p>
 
